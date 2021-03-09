@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#a7a7a7;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: center;
+    color: rgb(26, 26, 26);
+    text-align: center;
+    padding: 24px 20px;
+    text-decoration: none;
+  }
+  
+  @keyframes nombre_fotograma_clave {
+    0% {
+       left: 100px;
+    }
+    40% {
+       left: 150px;
+    }
+    60% {
+       left: 75px;
+    }
+    100% {
+       left: 100px;
+    }
+ }
+ 

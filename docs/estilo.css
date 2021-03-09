@@ -1,0 +1,17 @@
+
+body {
+     color: rgba(255, 255, 255, 0.938);
+     background-color: #df3434 }
+     header{
+     color: rgba(0, 0, 0, 0.938);
+     background-color: #ffffff }
+     section{
+     color: rgba(255, 255, 255, 0.938);
+     background-color: #000000 }
+     aside{
+     color: rgba(255, 255, 255, 0.938);
+     background-color: #e2d2d2 }
+     footer {
+     color: rgba(255, 255, 255, 0.938);
+     background-color: #1f1717 }
+    
